@@ -1,2 +1,2 @@
-# kmeans_sentimen
-Tugas akhir Egidio
+# naive_sentimen
+Tugas akhir gabriel
